@@ -1,0 +1,8 @@
+/*
+ * Public API Surface of shared
+ */
+export * from './lib/shared.service';
+export * from './lib/shared.component';
+export * from "./lib/first/first.component";
+export * from "./lib/second/second.component";
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL3NoYXJlZC9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsc0JBQXNCLENBQUM7QUFDckMsY0FBYyx3QkFBd0IsQ0FBQztBQUN2QyxjQUFjLDZCQUE2QixDQUFBO0FBQzNDLGNBQWMsK0JBQStCLENBQUEiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxyXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2Ygc2hhcmVkXHJcbiAqL1xyXG5cclxuZXhwb3J0ICogZnJvbSAnLi9saWIvc2hhcmVkLnNlcnZpY2UnO1xyXG5leHBvcnQgKiBmcm9tICcuL2xpYi9zaGFyZWQuY29tcG9uZW50JztcclxuZXhwb3J0ICogZnJvbSBcIi4vbGliL2ZpcnN0L2ZpcnN0LmNvbXBvbmVudFwiXHJcbmV4cG9ydCAqIGZyb20gXCIuL2xpYi9zZWNvbmQvc2Vjb25kLmNvbXBvbmVudFwiXHJcblxyXG4iXX0=

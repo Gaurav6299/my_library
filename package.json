@@ -1,0 +1,26 @@
+{
+  "name": "gauravshared",
+  "version": "0.0.9",
+  "peerDependencies": {
+    "@angular/common": "^18.1.0",
+    "@angular/core": "^18.1.0",
+    "bootstrap": "^5.3.3"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false,
+  "module": "fesm2022/gauravshared.mjs",
+  "typings": "index.d.ts",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./index.d.ts",
+      "esm2022": "./esm2022/gauravshared.mjs",
+      "esm": "./esm2022/gauravshared.mjs",
+      "default": "./fesm2022/gauravshared.mjs"
+    }
+  }
+}
