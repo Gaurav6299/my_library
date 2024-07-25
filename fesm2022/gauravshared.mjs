@@ -32,11 +32,11 @@ i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "18.1.1", ngImpor
 
 class FirstComponent {
     static { this.ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "18.1.1", ngImport: i0, type: FirstComponent, deps: [], target: i0.ɵɵFactoryTarget.Component }); }
-    static { this.ɵcmp = i0.ɵɵngDeclareComponent({ minVersion: "14.0.0", version: "18.1.1", type: FirstComponent, isStandalone: true, selector: "lib-first", ngImport: i0, template: "<!-- <p>This is My Shared Application</p> -->\r\n <h2>Enter You Tenanat Name Here</h2>\r\n", styles: [""] }); }
+    static { this.ɵcmp = i0.ɵɵngDeclareComponent({ minVersion: "14.0.0", version: "18.1.1", type: FirstComponent, isStandalone: true, selector: "lib-first", ngImport: i0, template: "<!-- <p>This is My Shared Application</p> -->\r\n <h2>Enter You Tenanat Names</h2>\r\n", styles: [""] }); }
 }
 i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "18.1.1", ngImport: i0, type: FirstComponent, decorators: [{
             type: Component,
-            args: [{ selector: 'lib-first', standalone: true, imports: [], template: "<!-- <p>This is My Shared Application</p> -->\r\n <h2>Enter You Tenanat Name Here</h2>\r\n" }]
+            args: [{ selector: 'lib-first', standalone: true, imports: [], template: "<!-- <p>This is My Shared Application</p> -->\r\n <h2>Enter You Tenanat Names</h2>\r\n" }]
         }] });
 
 class SecondComponent {
